@@ -1,2 +1,2 @@
 # Maya_Python_Desing
-Mis dise;os con maya y python
+Mis diseños con maya y python
